@@ -1,4 +1,4 @@
-package login;
+package Entity;
 
 /**
  * @author 杨光儒
@@ -7,7 +7,7 @@ package login;
  * @Description: TODO
  * @date 2018/8/1010:56
  */
-public class User {
+public class Customer {
     private int userid;
     private String username;
     private String password;
